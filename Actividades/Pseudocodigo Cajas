@@ -1,0 +1,18 @@
+Inicio
+      
+      Escribir en pantalla: "Escanee el codigo de barras"
+      ¿Se escaneo el codigo de barras?
+      Si se escaneo el codigo de barras;
+                    Imprimir en pantalla: " costo $50.00"
+                   Guardar valor en variable costo
+      Si no se escaneo el codigo de barras;
+                    Imprimir en pantalla "Vuelva a escanear el codigo de barras"
+       Escribir en pantalla: "Ingrese efectivo" 
+       Restar el efectivo al valor de la variable costo
+       ¿El efectivo es mayor al valor de costo?
+      Si es verdadero;
+       Imprimir en pantalla "Tome su cambio y su ticket"
+      Si es falso;
+                Imprimir en pantalla "Ingrese cantidad faltante"
+
+Fin
