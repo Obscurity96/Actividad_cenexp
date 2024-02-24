@@ -1,0 +1,8 @@
+Algoritmo Circulo
+
+1-Leer el valor del radio del circulo (r)
+2-Definir pi como 3.1416
+3-Calcular el diametro (d) utilizando la formula d = 2 * pi * r.
+4-Calcular el perimetro (P) utilizando la formula: P = 2 * pi * r.
+5-Calcular el area de (A) utilizando la formula: A = pi * rʌ2.
+6-Mostrar los resultados del diametro, perimetro y area.
