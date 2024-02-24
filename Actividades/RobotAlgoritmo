@@ -1,0 +1,14 @@
+Algoritmo 
+
+1-Asegurarse que el robot esta encendido para recibir indicaciónes
+2-Girar el robot 90 grados a la izquierda en dirección a la puerta
+3-Determinar el total de la distancia exacta de un metro
+4-Dar la indicación de que avance
+5-Al llegar a la puerta dar la indicación de extender el brazo a la manibela de la puerta
+6-Tomar la manibela, girarla para abrirla y empujar la puerta
+7-Dar un paso hacia al frente y tomar la manibela
+8-Dar dos pasos hacia atras sujetando la manibela hasta cerrar la puerta
+9-Girar 90 grados a la derecha
+10-Determinar la distancia exacta de un metro
+11-Dar la indicación de que avance
+12-Girar el robot nuevamente 90 grados hacia la posición inicial.
