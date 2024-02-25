@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" modified="2024-02-25T23:48:53.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="SiDWz6RrtkS3KllIM0UL" version="23.1.6" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1945" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-6" target="f6YC6wZ-b5b79aKro-g_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-6" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-9" value="Asegurarse que el robot este encendido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="10" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-13" target="f6YC6wZ-b5b79aKro-g_-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-13" value="¿Esta encendido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-71" target="f6YC6wZ-b5b79aKro-g_-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-71" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="515" y="205" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-75" target="f6YC6wZ-b5b79aKro-g_-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-75" target="f6YC6wZ-b5b79aKro-g_-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-75" value="Si" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-77" target="f6YC6wZ-b5b79aKro-g_-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-77" value="No" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-79" value="Girar el robot 90 grados en dirección a la puerta" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-81" value="Presionar el botón de encendido" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-90" target="f6YC6wZ-b5b79aKro-g_-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-90" value="Determinar la distancia exacta de un metro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="380" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-91" target="f6YC6wZ-b5b79aKro-g_-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-91" value="Dar la indicacion de que avance" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-93" target="f6YC6wZ-b5b79aKro-g_-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-93" value="Al llegar a la puerta dar la indicación de que extienda el brazo hacia la manivela de la puerta&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="490" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-95" target="f6YC6wZ-b5b79aKro-g_-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-95" value="Tomar la manivela, girarla hacia la derecha y empujar la puerta" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="490" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-97" target="f6YC6wZ-b5b79aKro-g_-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-97" value="Dar un paso hacia al frente y tomar la manivela" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="561.25" y="630" width="248.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-101" target="f6YC6wZ-b5b79aKro-g_-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-101" value="Dar dos pasos hacia atrás sujetando la manivela hasta cerrar la puerta" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="630" width="196.88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-103" target="f6YC6wZ-b5b79aKro-g_-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-103" value="Girar 90 grados a la derecha" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="6.559999999999999" y="630" width="168.44" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-105" target="f6YC6wZ-b5b79aKro-g_-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-105" value="Determinar la distancia exacta de un metro" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30.78" y="770" width="189.22" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-107" target="f6YC6wZ-b5b79aKro-g_-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-107" value="Dar la indicación de que avance" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="334.61" y="770" width="145.39" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f6YC6wZ-b5b79aKro-g_-110" target="f6YC6wZ-b5b79aKro-g_-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-110" value="Girar el robot nuevamente 90 grados hacia la posición inicial." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="572.69" y="770" width="237.31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6YC6wZ-b5b79aKro-g_-112" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="651.35" y="900" width="128.65" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
