@@ -1,1 +1,15 @@
+Inicio
 
+Escribir en pantalla: "Ingresar la base del triaungulo"
+Guardar valor en variable (b)
+¿Se ingreso la base del triangulo?
+Si es verdadero;
+           Imprimir en pantalla "Gracias por la respuesta"
+Si es falso;
+           Imprimir en pantalla "Ingrese base del triangulo"
+Escribir en pantalla: "Ingrese ahora la altura del triangulo"
+Guardar valor en variable (h)
+Calcular el area del triangulo tomando los valores de la variable (b) y (h) utilizando la siguiente formula: Area = (1/2) * base * altura.
+Imprimir en pantalla el valor del area calculada
+
+Fin
