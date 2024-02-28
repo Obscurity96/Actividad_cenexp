@@ -1,0 +1,9 @@
+Entradas                    calculos                      Salida
+Base (b) Altura (h)  Área                  Área
+
+3       4       (1/2) * 3 * 4 = 6     Área del triangulo es: 6  
+5	10      (1/2) * 5 * 10 = 25   Área del triangulo es: 25
+7       2       (1/2) * 7 * 2 * = 7   Área del triangulo es: 7
+12      8       (1/2) * 12 * 8 * = 48 Área del triangulo es: 48
+9       6       (1/2) * 9 * 6* = 27   Área del triangulo es: 27
+
